@@ -1,0 +1,9 @@
+.gradio-container {
+    width: 25vw;
+}
+
+#chatbot-container {
+    position: fixed;
+    bottom: 1vw;
+    right: 1vw;
+}
